@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 AYYYYYYYYYYYY
-=======
-NOOOOOO
->>>>>>> master
